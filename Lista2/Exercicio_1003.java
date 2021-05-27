@@ -1,4 +1,5 @@
-/* Leia dois valores inteiros, neste caso, as variáveis ​​A e B. Em seguida, 
+/* Aluno: Pedro Domingues
+* Leia dois valores inteiros, neste caso, as variáveis ​​A e B. Em seguida, 
 * calcule a soma entre eles e atribua à variável SOMA . Escreva o valor desta variável.
 * 
 * Entrada
